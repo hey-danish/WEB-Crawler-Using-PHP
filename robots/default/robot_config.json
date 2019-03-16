@@ -1,0 +1,12 @@
+{
+    "robot_id":"13246",
+    "host":"http:\/\/cnn.com",
+    "date_created":"25 July 2015",
+    "files":
+            {
+                "web_xml":"xml_web_13246.xml",
+		"log_xml":"log_robot_13246.txt",
+                "img_xml":"xml_img_13246.xml",
+                "vid_xml":"xml_vid_13246.xml"
+                }
+}

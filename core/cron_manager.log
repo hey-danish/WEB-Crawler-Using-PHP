@@ -1,0 +1,28 @@
+# --------------------------
+# LOG FILE FOR CRON MANAGER 
+# --------------------------
+
+22-07-2015 06:25:50==Run Successful: 2Number of Robot scheduled. The following robots are 13241,13242
+22-07-2015 06:26:43==Run Successful: 1 Number of Robot scheduled. The following robots are 
+22-07-2015 21:07:53 == Run Successful: No Robot found
+22-07-2015 22:14:05 == Run Successful: No Robot found
+22-07-2015 22:14:11 == Run Successful: No Robot found
+22-07-2015 22:14:23 == Run Successful: 1 Number of Robot scheduled. The following robots are 13241
+22-07-2015 22:14:40 == Run Successful: 2 Number of Robot scheduled. The following robots are 13241,13242
+22-07-2015 22:15:17 == Run Successful: 2 Number of Robot scheduled. The following robots are 13241,13242
+22-07-2015 22:26:49 == Run Successful: 2 Number of Robot scheduled. The following robots are 13241,13242
+23-07-2015 13:10:19 == Run Successful: No Robot found
+23-07-2015 13:12:39 == Run Successful: No Robot found
+23-07-2015 13:13:58 == Run Successful: No Robot found
+23-07-2015 13:15:09 == Run Successful: No Robot found
+23-07-2015 14:13:23 == Run Successful: No Robot found
+23-07-2015 14:15:14 == Run Successful: No Robot found
+23-07-2015 15:23:12 == Run Successful: 30 Number of Robot scheduled. The following robots are robot_111,10002,10003,10004,10005,10006,10007,10008,10009,10010,10011,10012,10013,10111,10002,10003,10004,10005,10006,10007,10008,10009,10010,10011,10012,10013,10111,10002,10003,10006
+23-07-2015 15:25:58 == Run Successful: 1 Number of Robot scheduled. The following robots are 10006
+27-07-2015 09:35:51 == Run Successful: No Robot found
+27-07-2015 09:36:52 == Run Successful: 1 Number of Robot scheduled. The following robots are 10001
+03-08-2015 10:51:04 == Run Successful: No Robot found
+03-08-2015 10:57:55 == Run Successful: 1 Number of Robot scheduled. The following robots are 10001
+03-08-2015 11:07:03 == Run Successful: No Robot found
+03-08-2015 11:07:18 == Run Successful: 1 Number of Robot scheduled. The following robots are 10001
+03-08-2015 14:07:55 == Run Successful: 1 Number of Robot scheduled. The following robots are 10003

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<container>
+    <level0 from_link="a">
+        <link>http://cnn.com</link>
+    </level0>
+</container>
